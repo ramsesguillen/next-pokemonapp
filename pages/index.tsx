@@ -1,4 +1,4 @@
-import { Button, Card, Grid, Row, Text } from '@nextui-org/react'
+import { Button, Grid } from '@nextui-org/react'
 import { NextPage, GetServerSideProps } from 'next'
 // import { Fragment } from 'react'
 import { Layout } from '../components/layouts'
